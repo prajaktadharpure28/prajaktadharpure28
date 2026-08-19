@@ -211,11 +211,7 @@ Business platform involving:
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=prajaktadharpure28&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=prajaktadharpure28&hide_border=true&theme=transparent"
-    alt="GitHub Streak"
+    alt="Prajakta's GitHub Stats"
   />
 </p>
 
