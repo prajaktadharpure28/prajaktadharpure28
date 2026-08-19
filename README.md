@@ -209,13 +209,12 @@ Business platform involving:
 # GitHub Statistics
 
 <p align="center">
-
   <img
     src="https://streak-stats.demolab.com?user=prajaktadharpure28&theme=transparent"
     alt="GitHub Streak"
   />
-
 </p>
+
 ---
 
 # Let's Connect
