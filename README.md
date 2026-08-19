@@ -208,7 +208,14 @@ Business platform involving:
 
 # GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prajaktadharpure28&theme=transparent)](https://git.io/streak-stats)
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=prajaktadharpure28&theme=transparent"
+    alt="GitHub Streak"
+  />
+
+</p>
 ---
 
 # Let's Connect
