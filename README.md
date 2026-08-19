@@ -208,13 +208,7 @@ Business platform involving:
 
 # GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prajaktadharpure28&show_icons=true&hide_border=true&theme=transparent"
-    alt="Prajakta's GitHub Stats"
-  />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=prajaktadharpure28&theme=transparent)](https://git.io/streak-stats)
 ---
 
 # Let's Connect
