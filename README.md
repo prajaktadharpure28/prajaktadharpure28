@@ -214,7 +214,7 @@ Business platform involving:
     alt="GitHub Statistics"
   />
   <img
-    src="https://streak-stats.demolab.com?user=prajaktadharpure28&hide_border=true&theme=transparent"
+    src="[https://streak-stats.demolab.com?user=prajaktadharpure28&hide_border=true&theme=transparent](https://streak-stats.demolab.com?user=prajaktadharpure28)](https://git.io/streak-stats)"
     alt="GitHub Streak"
   />
 </p>
